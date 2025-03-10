@@ -1,0 +1,21 @@
+body {
+    color: aliceblue;
+    background-color: black;
+    font-style: initial;
+    margin-left: 100px;
+    margin-right: 150px;
+}
+
+header {
+    margin-right: 300px;
+    margin-left: 500px;
+    height: 100px;
+}
+
+footer {
+    margin: auto;
+    height: 300px;
+}
+h3 {
+    margin: 100px,0px,0px,0px;
+}
